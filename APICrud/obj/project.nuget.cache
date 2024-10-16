@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "exXHMm0GWo6Ocv+OQ22UNReR6yB+QAgxTZPDZBESTXcaV4BuT2TCu01YiSUcaH1dPWgbPxD6IxiIzVR+mHyJag==",
+  "dgSpecHash": "SucLFcafGE4CDSHB4sewf1WHC6eJTC+I0ZUTgDiAtmJidmgqmBR/mIP6Fjqiu229TSX1RxfhTfkyBZRjSH3ZnQ==",
   "success": true,
-  "projectFilePath": "/home/joselomart/APICrud/APICrud.csproj",
+  "projectFilePath": "/home/joselomart/Documentos/GitHub/Api_/APICrud/APICrud.csproj",
   "expectedPackageFiles": [
     "/home/joselomart/.nuget/packages/microsoft.aspnetcore.openapi/7.0.19/microsoft.aspnetcore.openapi.7.0.19.nupkg.sha512",
     "/home/joselomart/.nuget/packages/microsoft.entityframeworkcore/6.0.0/microsoft.entityframeworkcore.6.0.0.nupkg.sha512",

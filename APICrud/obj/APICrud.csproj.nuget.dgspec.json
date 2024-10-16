@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/joselomart/APICrud/APICrud.csproj": {}
+    "/home/joselomart/Documentos/GitHub/Api_/APICrud/APICrud.csproj": {}
   },
   "projects": {
-    "/home/joselomart/APICrud/APICrud.csproj": {
+    "/home/joselomart/Documentos/GitHub/Api_/APICrud/APICrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joselomart/APICrud/APICrud.csproj",
+        "projectUniqueName": "/home/joselomart/Documentos/GitHub/Api_/APICrud/APICrud.csproj",
         "projectName": "APICrud",
-        "projectPath": "/home/joselomart/APICrud/APICrud.csproj",
+        "projectPath": "/home/joselomart/Documentos/GitHub/Api_/APICrud/APICrud.csproj",
         "packagesPath": "/home/joselomart/.nuget/packages/",
-        "outputPath": "/home/joselomart/APICrud/obj/",
+        "outputPath": "/home/joselomart/Documentos/GitHub/Api_/APICrud/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joselomart/.nuget/NuGet/NuGet.Config"
